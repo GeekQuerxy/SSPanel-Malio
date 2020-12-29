@@ -1,0 +1,17 @@
+可以使用download.sh脚本自动下载的客户端:
+Clash-Windows.7z
+ClashX.dmg
+ss-android.apk
+ss-win.zip
+ss-mac.zip
+ssd-android.apk
+ssd-win.7z
+ssrr-android.apk
+v2rayng.apk
+
+需要手动下载的客户端:
+kitsunebi.apk
+surfboard.apk
+ssr.7z
+netch.7z
+clash-for-android.apk
